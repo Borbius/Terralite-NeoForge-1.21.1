@@ -1,0 +1,64 @@
+{
+  "creativetab.terralitemod.terralitemod_tab": "Terralite Mod",
+
+  "item.terralitemod.raw_test": "Raw Test",
+  "item.terralitemod.test_ingot": "Test Ingot",
+  "item.terralitemod.ruby_ore": "Ruby",
+  "item.terralitemod.polished_ruby": "Polished Ruby",
+  "item.terralitemod.fallen_star": "Fallen Star",
+  "item.terralitemod.flour": "Flour",
+  "item.terralitemod.opal": "Opal",
+  "item.terralitemod.goop": "Goop",
+
+
+  "item.terralitemod.carbonara": "Carbonara",
+  "item.terralitemod.dough": "Dough",
+
+
+  "item.terralitemod.magic_mirror": "Magic Mirror",
+  "item.terralitemod.rope_bundle": "Rope Bundle",
+
+  "block.terralitemod.test_block": "Test Block",
+  "block.terralitemod.test_block_ore": "Test Block Ore",
+  "block.terralitemod.ruby_ore_block": "Ruby Ore Block",
+  "block.terralitemod.deepslate_ruby_ore_block": "Deepslate Ruby Ore",
+  "block.terralitemod.ruby_block": "Block Of Ruby",
+  "block.terralitemod.opal_ore_block": "Opal Ore Block",
+  "block.terralitemod.deepslate_opal_ore_block": "Deepsalte Opal Ore Block",
+  "block.terralitemod.opal_block": "Opal  Block",
+  "block.terralitemod.dungeon_brick_block": "Dungeon Brick",
+  "block.terralitemod.cracked_dungeon_brick_block": "Cracked Dungeon Brick",
+
+
+  "block.terralitemod.rope_block": "Rope",
+  "block.terralitemod.platform_block": "Platform",
+  "block.terralitemod.mill_block": "Mill",
+
+
+  "effect.terralitemod.recall": "Recalling",
+  "effect.terralitemod.teleport_sickness": "Teleport Sickness",
+  "effect.terralitemod.spelunker_effect": "Spelunker",
+  "effect.terralitemod.random_teleport": "Randomly Teleport",
+  "effect.terralitemod.recall_to_ls": "Recalling To lodeStone",
+
+
+  "item.minecraft.potion.effect.recall_potion": "Recall Potion",
+  "item.minecraft.splash_potion.effect.recall_potion": "Splash Recall Potion",
+  "item.minecraft.lingering_potion.effect.recall_potion": "Lingering Recall Potion",
+  "item.minecraft.tipped_arrow.effect.recall_potion": "Recall Arrow",
+  "item.minecraft.potion.effect.random_teleport_potion": "Random Teleport Potion",
+  "item.minecraft.splash_potion.effect.random_teleport_potion": "Splash Random Teleport Potion",
+  "item.minecraft.lingering_potion.effect.random_teleport_potion": "Lingering Random Teleport Potion",
+  "item.minecraft.tipped_arrow.effect.random_teleport_potion": "Random Teleport Arrow",
+  "item.minecraft.potion.effect.spelunker_potion": "Spelunker Potion",
+  "item.minecraft.splash_potion.effect.spelunker_potion": "Splash Spelunker Potion",
+  "item.minecraft.lingering_potion.effect.spelunker_potion": "Lingering Spelunker Potion",
+  "item.minecraft.tipped_arrow.effect.spelunker_potion": "Spelunker Arrow",
+
+
+  "tooltip.terratlite.magic_mirror": "Press §eShift§r for more Information!",
+  "tooltip.terratlite.magic_mirror_shift_down0": "Destination: §llodeStone§r",
+  "tooltip.terratlite.magic_mirror_shift_down1": "Teleports the player to their Spawn optionally",
+  "tooltip.terratlite.magic_mirror_shift_down2": "§eRight Click§r a §llodeStone§r to override the return location",
+  "tooltip.terratlite.magic_mirror_shift_down3": "§eCrouch Right Click§r to reset"
+}
